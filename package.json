@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "tsc": "tsc && node hello.js",
-    "demo": "ts-node hello.ts"
+    "tsc": "tsc && node src/hello.js",
+    "demo": "ts-node src/hello.ts"
   },
   "dependencies": {
   },
