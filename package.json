@@ -1,12 +1,11 @@
 {
-  "scripts": {
-    "tsc": "tsc && node src/hello.js",
-    "demo": "ts-node src/hello.ts"
-  },
-  "dependencies": {
-  },
-  "devDependencies": {
-    "ts-node": "7.0.0",
-    "typescript": "3.0.1"
-  }
+    "scripts": {
+        "tsc": "tsc && node src/hello.js",
+        "start": "ts-node src/hello.ts"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "ts-node": "7.0.0",
+        "typescript": "3.0.1"
+    }
 }
